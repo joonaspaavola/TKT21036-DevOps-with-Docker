@@ -5,7 +5,7 @@ Please, run the following commands to use this app
 
 ```
 docker pull joonaspaavola/busybox-example:latest
-docker run -it busybox-example
+docker run -it joonaspaavola/busybox-example
 ```
 
 You should now see current date in your console window
