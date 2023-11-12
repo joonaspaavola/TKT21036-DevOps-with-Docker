@@ -1,4 +1,4 @@
-Link to Docker Hub page https://hub.docker.com/repository/docker/joonaspaavola/busybox-example/
+Link to Docker Hub page [https://hub.docker.com/repository/docker/joonaspaavola/busybox-example/](https://hub.docker.com/r/joonaspaavola/busybox-example)
 
 
 Please, run the following commands to use this app
